@@ -2,6 +2,7 @@
   --background-image: url("../images/cover-image-light.png");
   --background-color: #fff1f7;
   --accent-color: #ff8dcb;
+  --decorated-zone-color: #353430;
   --page-title: #ffc2e6;
   --header-menu-text: #353430;
   --header-menu-border-hover: rgba(53, 52, 48, 0.4);
@@ -20,6 +21,7 @@
     --background-image: url("../images/cover-image-light.png");
     --background-color: #fff1f7;
     --accent-color: #ff8dcb;
+    --decorated-zone-color: #353430;
     --page-title: #ffc2e6;
     --header-menu-text: #353430;
     --header-menu-border-hover: rgba(53, 52, 48, 0.4);
@@ -28,7 +30,7 @@
     --section-title: #353430;
     --section-text: #353430;
   }
-  
+
   .header__rec-label {
     display: none;
   }

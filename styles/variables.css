@@ -3,6 +3,7 @@
   --background-color: #000028;
   --main-page-padding: clamp(10px, calc(2.63vw + 0.13px), 20px);
   --accent-color: #ff0070;
+  --decorated-zone-color: #ff0070;
   --main-font-family: "IBM Plex mono", monospace;
   --page-title: #db00ff;
   --text-font-size: 18px;
